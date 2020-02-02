@@ -1,0 +1,136 @@
+{"valorAtual":7,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 10.0.17763.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":8,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 10.0.17763.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":10,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 10.0.17763.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":11,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 10.0.17763.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":13,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 10.0.17763.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":1,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":2,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":1,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":2,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+System.Exception: Teste de erro com Polly
+   at APIContagem.Controllers.ContadorController.Get(IConfiguration configuration) in d:\DotNetCore 3.1\APIContagemNovaPorta\APIContagem\Controllers\ContadorController.cs:line 25
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+HEADERS
+=======
+Accept: application/json
+Host: localhost:5001
+Request-Id: |6069b60e-4a5d8c51c4f83a4f.1.
+
+
+{"valorAtual":4,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":5,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+System.Exception: Teste de erro com Polly
+   at APIContagem.Controllers.ContadorController.Get(IConfiguration configuration) in d:\DotNetCore 3.1\APIContagemNovaPorta\APIContagem\Controllers\ContadorController.cs:line 25
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+HEADERS
+=======
+Accept: application/json
+Host: localhost:5001
+Request-Id: |6069b61b-4a5d8c51c4f83a4f.1.
+
+
+{"valorAtual":7,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":8,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":10,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":11,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":13,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":14,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":16,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":1,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":2,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":4,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":5,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":7,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":8,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":10,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":11,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":13,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":14,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":16,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":17,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":19,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":20,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+

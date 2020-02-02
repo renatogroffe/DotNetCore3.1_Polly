@@ -1,0 +1,92 @@
+Retentativa: 1
+
+Retentativa: 2
+
+Retentativa: 3
+
+{"valorAtual":9,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":10,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":11,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":12,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":13,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":14,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":15,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+Retentativa: 2
+
+Retentativa: 3
+
+{"valorAtual":16,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+Retentativa: 2
+
+{"valorAtual":17,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+Retentativa: 2
+
+Retentativa: 3
+
+{"valorAtual":18,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":19,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":20,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+Retentativa: 2
+
+Retentativa: 3
+
+Erro HTTP 503: Simulação de serviço indisponível com Simmy...
+
+Esgotadas as tentativas com Polly...
+
+{"valorAtual":24,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+{"valorAtual":25,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":26,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+{"valorAtual":27,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
+Retentativa: 1
+
+Retentativa: 2
+
+Retentativa: 3
+
+Erro HTTP 503: Simulação de serviço indisponível com Simmy...
+
+Esgotadas as tentativas com Polly...
+
+Retentativa: 1
+
+Retentativa: 2
+
+Retentativa: 3
+
+Erro HTTP 503: Simulação de serviço indisponível com Simmy...
+
+Esgotadas as tentativas com Polly...
+
+{"valorAtual":28,"machineName":"DESKTOP-P3MIDVE","local":"Teste","sistema":"Microsoft Windows NT 6.2.9200.0","variavel":"Teste utilizando appsettings.json","targetFramework":".NETCoreApp,Version=v3.1"}
+
